@@ -11,7 +11,7 @@ Streamlit has been used for the deployment of the project.<br>
 Instructions for usage and Setup<br>
 1.Open the the code file in a new notebook on Google collab.<br>
 2.Upload the dataset in google collab under the files section.<br>
-3.After running all cells, Download the model.pkl and vectorizer.pkl files from the files section.<br> 
+3.After running all cells, Download the model.pkl and vectorizer.pkl files from the files section(or you may skip the steps 1,2,3 and use the model.pkl and vectorizer.pkl uploaded in the git files)<br> 
 4.Create a new project in pycharm, with a virtual environment, create a new app.py file and paste the deployment code in it.<br> 
 5.Import the model.pkl and vectorizer.pkl into the venv file of the files section.<br>
 6.Run the app.py file in the terminal using "streamlit run app.py" command.<br>
